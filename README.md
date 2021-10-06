@@ -8,7 +8,7 @@
 
 Personal portfolio
 
-[![Site preview](https://i.ibb.co/Ht7p7bw/IMG-20211006-170516.jpg)](https://codepen.io/abiemiracle/full/WNOBgXo)
+[![Site preview](https://i.ibb.co/LZ0McFy/IMG-20211006-171905.jpg)](https://codepen.io/abiemiracle/full/WNOBgXo)
 
 A design portfolio to showcase a few projects. View the [live site](https://codepen.io/abiemiracle/full/WNOBgXo) 
 
