@@ -6,6 +6,12 @@
 - 💞️ I’m looking to collaborate on Front-end and reactjs
 - 📫 How to reach me [miracleonah3005@gmail.com](mailto:miracleonah3005@gmail.com)
 
+Personal portfolio
+
+[![Site preview](https://i.ibb.co/Ht7p7bw/IMG-20211006-170516.jpg)](https://codepen.io/abiemiracle/pen/WNOBgXo)
+
+A design portfolio to showcase a few projects. View the [live site](https://codepen.io/abiemiracle/pen/WNOBgXo) 
+
 ## Find me around the web 🌍
 
 - [Instagram](https://www.instagram.com/ordinaryabraham/)
