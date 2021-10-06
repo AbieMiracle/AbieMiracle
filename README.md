@@ -8,9 +8,9 @@
 
 Personal portfolio
 
-[![Site preview](https://i.ibb.co/Ht7p7bw/IMG-20211006-170516.jpg)](https://codepen.io/abiemiracle/pen/WNOBgXo)
+[![Site preview](https://i.ibb.co/Ht7p7bw/IMG-20211006-170516.jpg)](https://codepen.io/abiemiracle/full/WNOBgXo)
 
-A design portfolio to showcase a few projects. View the [live site](https://codepen.io/abiemiracle/pen/WNOBgXo) 
+A design portfolio to showcase a few projects. View the [live site](https://codepen.io/abiemiracle/full/WNOBgXo) 
 
 ## Find me around the web 🌍
 
